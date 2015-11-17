@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="title_activity_view_all_players">ViewAllPlayersActivity</string>
+    <string name="add_football_player">Add Football Player</string>
+    <string name="view_all_players">View all Players</string>
+    <string name="application_details">Application Details</string>
+    <string name="add">Add Player</string>
+</resources>
